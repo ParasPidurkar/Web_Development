@@ -18,37 +18,38 @@ player1.HP = 50;
 player1.alive = 1;
 console.log(player1.alive)
 
-let company = { companyName: "Healthy Candy",
-                activity: "food manufacturing",
-                address: {
-                  street: "2nd street",
-                  number: "123",
-                  zipcode: "33116",
-                  city: "Miami",
-                  state: "Florida"
+let character1 = { characterName: "KillJoy",
+                characterType: "Sentinel",
+                power: {
+                  attack1: "SwarmGrenade",
+                  attack2: "Alarmbot",
+                  attack3: "Turret",
+                  ultimateAttack: "LockDown",
+                  country: "Germany"
                 },
-                yearOfEstablishment: 2021 
+                yearOfAdding: 2021
               };
 
-company.address.zipcode = "33117";
-company["address"]["number"] = "100";
+character1.power.attack1 = "marshPit";
+character1["power"]["attack2"] = "Boombot";
 
-console.log(company);
+console.log(character1);
 
-let company2 = { companyName: "Healthy Candy",
-                activities: ["food manufacturing", "improving kids' health", "manufacturing toys"],
-                address: {
-                  street: "2nd street",
-                  number: "123",
-                  zipcode: "33116",
-                  city: "Miami",
-                  state: "Florida"
-                },
-                yearOfEstablishment: 2021 
-              };
+let character2 = { characterName: "Breach",
+    characterType: "Initiator",
+    friends: ["Jett","Viper","Pheonix"],
+    power: {
+        attack1: "Aftershock",
+        attack2: "FlashPoint",
+        attack3: "FaultLine",
+        ultimateAttack: "RollingThunder",
+        country: "Sweden"
+    },
+    yearOfAdding: 2020
+};
 
-let activity = company2.activities[1];
-console.log(activity);
+let bestFriend = character2.friends[1];
+console.log(bestFriend);
 
 let addresses = [{
     street: "2nd street",
@@ -65,8 +66,8 @@ let addresses = [{
     state: "Texas"
   }];
 
-  let company3 = { companyName: "Healthy Candy",
-                    activities: ["food manufacturing", "improving kids' health", "manufacturing toys"],
+  let character3 = { characterName: "Anubis",
+                    activities: ["Electric charge", "healing", "manufacturing weapons"],
                     address: [{
                       street: "2nd street",
                       number: "123",
@@ -81,5 +82,5 @@ let addresses = [{
                       city: "Addison",
                       state: "Texas"
                     }],
-                    yearOfEstablishment: 2021 
+                    yearOfAdding: 2023
                   };
