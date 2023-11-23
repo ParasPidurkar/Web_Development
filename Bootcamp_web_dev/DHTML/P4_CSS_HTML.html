@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>
+        getElementById.style.property example
+    </title>
+</head>
+<body>
+<p id="demo"> This text changes color when click on the following different buttons. </p>
+<button onclick="change_Color('green');"> Green </button>
+<button onclick="change_Color('blue');"> Blue </button>
+<script type="text/javascript">
+
+    function change_Color(newColor) {
+        var element = document.getElementById('demo').style.color = newColor;
+    }
+</script>
+</body>
+</html>

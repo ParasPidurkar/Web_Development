@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    .container{
+        width: 100%;
+        height: 100vh;
+        background-color: aquamarine;
+        margin: 50px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .box{
+        width: 100px;
+        height: 100px;
+        background-color: rosybrown;
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .sticky{
+        position: sticky;
+        top: 0px;
+        background-color: palevioletred;
+    }
+</style>
+<body>
+<div class="container">
+    <div class="box1"></div>
+    <div class="sticky">Sticky</div>
+</div>
+
+</body>
+</html>

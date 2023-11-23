@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title> Check Student Grade
+    </title>
+</head>
+
+<body>
+<p>Enter the percentage of a Student:</p>
+<input type="text" id="percentage">
+<button type="button" onclick="checkGrade()">
+    Find Grade
+</button>
+<p id="demo"></p>
+<script type="text/javascript">
+    function checkGrade() {
+        var x,p, text;
+        p = document.getElementById("percentage").value;
+
+        x=parseInt(p);
+
+
+        if (x>90 && x <= 100) {
+            document.getElementById("demo").innerHTML = "A1";
+        } else if (x>80 && x <= 90) {
+            document.getElementById("demo").innerHTML = "A2";
+        } else if (x>70 && x <= 80) {
+            document.getElementById("demo").innerHTML = "A3";
+        }
+    }
+</script>
+</body>
+</html>

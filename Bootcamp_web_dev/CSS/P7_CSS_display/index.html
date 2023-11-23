@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .box{
+        width: 200px;
+        height: 100px;
+        background-color: palevioletred;
+        padding: 15px 5px;
+        border: 4px solid purple;
+        margin: 30px;
+    }
+    .inline_box{
+        background-color: pink;
+    }
+    .block_box{
+        background-color: plum;
+    }
+    .inline_box,.block_box{
+        width: 200px;
+        height: 100px;
+        padding: 15px;
+        border: 5px solid palegreen;
+        margin: 10px;
+        box-sizing: border-box;
+    }
+</style>
+<body>
+<div class="box">
+    <p>Lorem ipsum dolor, sit amet consectetur</p>
+</div>
+<br><br>
+<span class="inline_box">Inline Element</span>
+<div class="block_box">Block Element</div>
+</body>
+</html>
