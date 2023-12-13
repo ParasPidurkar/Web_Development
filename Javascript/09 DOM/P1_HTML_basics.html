@@ -1,10 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="description" content="This is the basic eaxmple">
+    <script src = "included.js"></script>
 </head>
 <body>
-$END$
+<h1>Heading 1</h1>
+<p>paragraph</p>
+<span>span1</span>
+<span>span2</span>
+<a href ="https://www.google.com/">Google</a>
+<table border="1">
+    <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+        <th>Header 3</th>
+    </tr>
+    <tr>
+        <td>Row 1, Cell 1</td>
+        <td>Row 1, Cell 2</td>
+        <td>Row 1, Cell 3</td>
+    </tr>
+    <tr>
+        <td>Row 2, Cell 1</td>
+        <td>Row 2, Cell 2</td>
+        <td>Row 2, Cell 3</td>
+    </tr>
+</table>
+<ul>
+    <li>ulistElem1</li>
+    <li>olistElem2</li>
+</ul>
+<ol><li>ulistElem1</li>
+    <li>olistElem2</li>
+</ol>
+
+<button id="myButton">Click me</button>
+<script>
+    // Function to be called on button click
+    function myFunction() {
+        console.log("Button clicked!");
+    }
+
+    // Adding click event listener
+    document.getElementById('myButton').addEventListener('click', myFunction);
+</script>
 </body>
 </html>
