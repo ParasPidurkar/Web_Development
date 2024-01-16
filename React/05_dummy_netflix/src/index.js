@@ -2,14 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import { Register } from './components/Register'
+import { NetflixRegisterComponent } from './components/NetflixRegisterComponent'
+import  NetflixIndexComponent  from './components/NetflixIndexComponent'
 import reportWebVitals from './reportWebVitals';
+import '../node_modules/bootstrap/dist/css/bootstrap.css'
+import '../node_modules/bootstrap-icons/font/bootstrap-icons.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
-    <Register/>
+    <NetflixIndexComponent/>
   </React.StrictMode>
 );
 

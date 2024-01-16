@@ -1,0 +1,12 @@
+.container-fluid{
+    background-image: url("download.webp");
+    height: 100vmax;
+    background-size:contain;
+    color: white
+}
+
+.box{
+    background-color: rgba(0,0,0,0.6);
+    height:100vmax;
+    width: 100vmax;
+}
