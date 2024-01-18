@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery DOM Manipulation Example</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+<h1>Appending Array Elements to Unordered List with jQuery</h1>
+<ul id="myList"></ul>
+
+<script>
+    $(document).ready(function() {
+        var fruits = ["Apple", "Banana", "Orange", "Mango", "Pineapple"];
+
+        fruits.forEach(function(item) {
+            $('#myList').append($('<li>').text(item));
+        });
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM Manipulation Example</title>
+</head>
+<body>
+
+<h1>Appending Array Elements to Unordered List</h1>
+<ul id="myList"></ul>
+
+<script>
+    // Example array
+    var fruits = ["Apple", "Banana", "Orange", "Mango", "Pineapple"];
+
+    // Function to append array elements to the list
+    function appendListItems() {
+        var list = document.getElementById("myList");
+
+        fruits.forEach(function(item) {
+            var li = document.createElement("li"); // Create a new list item
+            li.textContent = item; // Set the text content to the array element
+            list.appendChild(li); // Append the list item to the list
+        });
+    }
+
+    // Call the function to append items to the list
+    appendListItems();
+</script>
+
+</body>
+</html>
