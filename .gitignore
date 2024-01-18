@@ -1,3 +1,5 @@
 #remove these
 node_modules
 .vscode
+dist
+.cache
