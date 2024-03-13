@@ -13,6 +13,7 @@ class MyContainer extends React.Component {
   state = { items: [] };
 
   componentDidMount() {
+    console.log("Hello this is Paras")
     fetchData().then((items) => this.setState({ items }));
   }
 

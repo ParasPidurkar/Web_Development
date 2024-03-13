@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11f30d4a-f0a6-43f0-ba4e-56fd27b913cd" name="Changes" comment="props state and context" />
+    <list default="true" id="11f30d4a-f0a6-43f0-ba4e-56fd27b913cd" name="Changes" comment="props state and context">
+      <change afterPath="$PROJECT_DIR$/C03_Props_State_Context/09_b_context_try/src/ThemeContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03_Props_State_Context/09_b_context_try/src/ThemeProvider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03_Props_State_Context/09_b_context_try/src/ThemedButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03_Props_State_Context/09_c_context_lunchmenu/src/ClassroomComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03_Props_State_Context/09_c_context_lunchmenu/src/LunchMenuContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03_Props_State_Context/09_c_context_lunchmenu/src/LunchMenuProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C03_Props_State_Context/08_container-components/src/MyContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/C03_Props_State_Context/08_container-components/src/MyContainer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -45,6 +64,7 @@
       <updated>1709669505739</updated>
       <workItem from="1709669506788" duration="2936000" />
       <workItem from="1709782861152" duration="44000" />
+      <workItem from="1710348746992" duration="4558000" />
     </task>
     <task id="LOCAL-00001" summary="props state and context">
       <option name="closed" value="true" />
