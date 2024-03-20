@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e754258e-0b5c-4599-90c3-bfb8f4047dd9" name="Changes" comment="React notes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2aoIU0YsyagCXwFQWxomiYtf9R6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Train/Web_Development/React+React_Native/C03_Props_State_Context&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Train\Web_Development\React\09_Data_Binding" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Train\Web_Development\React" />
+      <recent name="D:\Train\Web_Development" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.localhost:1234">
+    <configuration name="JS_dom_manipulation.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_Development/React/08_DOM_manipulation/JS_dom_manipulation.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="jquery_example.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_Development/React/08_DOM_manipulation/jquery_example.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:1234" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:1234">
+      <method v="2" />
+    </configuration>
+    <configuration name="01_app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Javascript_Gear5/04_OOPUnderTheHood/01_app.js" working-dir="$PROJECT_DIR$/Javascript_Gear5/04_OOPUnderTheHood">
+      <method v="2" />
+    </configuration>
+    <configuration name="03_prototype_chaining_serious mode.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Javascript_Gear5/04_OOPUnderTheHood/03_prototype_chaining_serious mode.js" working-dir="$PROJECT_DIR$/Javascript_Gear5/04_OOPUnderTheHood">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:1234" />
+        <item itemvalue="JavaScript Debug.jquery_example.html" />
+        <item itemvalue="JavaScript Debug.JS_dom_manipulation.html" />
+        <item itemvalue="Node.js.03_prototype_chaining_serious mode.js" />
+        <item itemvalue="Node.js.01_app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e754258e-0b5c-4599-90c3-bfb8f4047dd9" name="Changes" comment="" />
+      <created>1704978517007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704978517007</updated>
+      <workItem from="1704978518396" duration="4301000" />
+      <workItem from="1704998089411" duration="5162000" />
+      <workItem from="1705009343866" duration="258000" />
+      <workItem from="1705413878763" duration="649000" />
+      <workItem from="1705437364542" duration="373000" />
+      <workItem from="1705553185899" duration="2700000" />
+      <workItem from="1705567727283" duration="102000" />
+      <workItem from="1705582330151" duration="5848000" />
+      <workItem from="1705617356548" duration="63000" />
+      <workItem from="1709491166688" duration="155000" />
+      <workItem from="1709491346782" duration="3523000" />
+      <workItem from="1709525742408" duration="18000" />
+      <workItem from="1709567393657" duration="349000" />
+    </task>
+    <task id="LOCAL-00001" summary="React daily update">
+      <option name="closed" value="true" />
+      <created>1704978620022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704978620022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="React notes">
+      <option name="closed" value="true" />
+      <created>1705582429908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705582429908</updated>
+    </task>
+    <task id="LOCAL-00003" summary="React notes">
+      <option name="closed" value="true" />
+      <created>1705582450021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705582450021</updated>
+    </task>
+    <task id="LOCAL-00004" summary="React notes">
+      <option name="closed" value="true" />
+      <created>1705612383888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705612383888</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="React daily update" />
+    <MESSAGE value="React notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="React notes" />
+  </component>
+</project>
